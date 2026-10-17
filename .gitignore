@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# AI assistant config (local only)
+CLAUDE.md
+AGENTS.md
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Secrets
+.env
